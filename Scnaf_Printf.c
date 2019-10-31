@@ -1,3 +1,4 @@
+/*Scnaf Printf 格式控制*/
 #include<stdio.h>
 using namespace std;
 
